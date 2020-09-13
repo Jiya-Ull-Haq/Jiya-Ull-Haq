@@ -1,6 +1,6 @@
 # Jiya Ull Haq
 
-[![](in.png)](https://www.instagram.com/this_is_jiya/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](linkedin.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](Mail.png)](mailto:shaik.jiyaullhaq@gmail.com)
+[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/linkedin.png)](https://www.instagram.com/this_is_jiya/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/in.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/Mail.png)](mailto:shaik.jiyaullhaq@gmail.com)
 
 ### Hi there 👋
 
