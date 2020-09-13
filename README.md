@@ -1,6 +1,6 @@
 # Jiya Ull Haq
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](Mail.png)](mailto:shaik.jiyaullhaq@gmail.com)&nbsp;[![instagram](in.png)](https://www.instagram.com/this_is_jiya/)
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](Mail.png)](mailto:shaik.jiyaullhaq@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram](in.png)](https://www.instagram.com/this_is_jiya/)
 
 ### Hi there 👋
 
