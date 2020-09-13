@@ -1,6 +1,6 @@
 # Jiya Ull Haq
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](mail.png)](mailto:8arpitdwivedi798@gmail.com)
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](mail.png)](mailto:shaik.jiyaullhaq@gmail.com)
 
 ### Hi there 👋
 
