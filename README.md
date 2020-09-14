@@ -4,4 +4,4 @@
 
 ### Hi there 👋
 
-I am Jiya ull Haq. My main interest lies in any Python Programming. I also have basic knowledge of Tableau and Docker. I'm always curious to learn new stuff and am very keen on working in a new and challenging environment. I count with good absorption to new technologies, learning and presenting skills.
+I am Jiya ull Haq. My main interest lies in any Python Programming. I'm always curious to learn new stuff and am very keen on working in a new and challenging environment. I count with good absorption to new technologies, learning and presenting skills.
