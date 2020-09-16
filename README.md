@@ -1,6 +1,6 @@
 # Jiya Ull Haq
 
-[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_instagram_291706%20(1).png)](https://www.instagram.com/this_is_jiya/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_linkedin_291709%20(1).png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_gmail_2916249%20(1).png)](mailto:shaik.jiyaullhaq@gmail.com)
+[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_instagram_291706%20(2).png)](https://www.instagram.com/this_is_jiya/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_linkedin_291709%20(2).png)](https://www.linkedin.com/in/jiya-ull-haq-ab25111a0/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/iconfinder_gmail_2916249%20(2).png)](mailto:shaik.jiyaullhaq@gmail.com)
 
 ### Hi there 👋
 
