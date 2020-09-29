@@ -8,4 +8,4 @@ I'm always curious to learn new stuff and am very keen on working in a new and c
 
 ### Github Stats: 
 <img align="Center" alt="Jiya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jiya-Ull-Haq&show_icons=true&hide_border=true" />
-icons8-website-50.png
+
