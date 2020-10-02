@@ -1,13 +1,13 @@
 ## Hi, This is Jiya.
 
 - 🎓 Computer Science Student   
-- 👨🏻‍💻 passionate programmer
+- 👨🏻‍💻 Passionate programmer
 - 📚 Studying Business needs
 - 🔭 Always curious to learn new stuff and am very keen on working in a new and challenging environment. 
 - ⚡ I count with good absorption to new technologies, learning and presenting skills.  
 ***
 ### Languages:
-[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-python%20(2).svg)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-java.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c++.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c-sharp-logo%20(1).svg)]()
+[![Python](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-python%20(2).svg)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-java.svg)](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C++](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c++.svg)](https://isocpp.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c-sharp-logo%20(1).svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### Lets connect:
 
