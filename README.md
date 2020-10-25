@@ -1,7 +1,10 @@
-## Hi, This is Jiya.
+<h1 align="center">Hi👋, This is Jiya.</h1>
+
+
 
 - 🎓 Computer Science Student   
 - 👨🏻‍💻 Passionate programmer
+- 🔬 Data Science♡
 - 📚 Understanding Business projects & Ideas
 - 🔭 Always curious to learn new stuff and am very keen on working in a new and challenging environment. 
 - ⚡ I count with good absorption to new technologies, learning and presenting skills.  
