@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Jiya.</h1>
-
+<p align="center"> Programming👨🏻‍💻 | Dreaming💭 | Motivating🗣 </p>
 
 
 - 🎓 Computer Science Student   
