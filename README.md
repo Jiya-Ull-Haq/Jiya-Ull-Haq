@@ -2,7 +2,7 @@
 <p align="center"> Programming👨🏻‍💻 | Dreaming💭 | Motivating🗣 </p>
 
 
-- 🎓 Computer Science Student   
+- 🎓 Computer Science Student at AEC.  
 - 👨🏻‍💻 Passionate programmer
 - 🔬 Data Science♡
 - 📚 Understanding Business projects & Ideas
