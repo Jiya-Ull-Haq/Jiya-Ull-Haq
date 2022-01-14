@@ -28,8 +28,8 @@
   
 ![Top Languages...](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-Ull-Haq&layout=compact)
   
- ![Jiya's-Gif-Image...](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/code.gif)
-  
+<!--  ![Jiya's-Gif-Image...](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/code.gif)
+   -->
 ![Jiya's GitHub stats...](https://github-readme-stats.vercel.app/api?username=Jiya-Ull-Haq&show_icons=true&theme=radical)
   
   
