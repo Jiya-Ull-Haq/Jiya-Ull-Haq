@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hello, I'm Jiya👋</h3>
-<p align="center"> Programming👨🏻‍💻 | Dreaming💭 | Mentoring🗣 <br> Former Google Developer Student Club Lead '21 @ AEC </p>
+<p align="center"> Programming 👨🏻‍💻 | Mentoring 🎤 <br> Former Google Developer Student Club Lead '21 @ AEC </p>
 
 ***
 
