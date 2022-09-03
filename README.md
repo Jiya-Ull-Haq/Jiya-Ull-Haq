@@ -8,7 +8,6 @@
 
 - 🎓 Computer Science Student @ Aditya Engineering College.  
 - 👨🏻‍💻 Passionate programmer & A Leader 🚀 
-- 📚 Learning Never Ends.
 - 🔭 Computer Information Systems ♡ 
 - ⚡  Student Entrepreneur | Jack Of All Trades.  
 
