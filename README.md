@@ -10,7 +10,7 @@
 - 👨🏻‍💻 Passionate programmer & A Leader 🚀 
 - 📚 Learning Never Ends.
 - 🔭 Computer Information Systems ♡ 
-- ⚡  Student Entreprenur | Jack Of All Trades.  
+- ⚡  Student Entrepreneur | Jack Of All Trades.  
 
 
 <!-- ### Languages:
