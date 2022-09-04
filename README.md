@@ -28,7 +28,7 @@
 
 ### Tools & Technologies:
 
-<div align="center">
+<div align="">
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1d1f21&labelColor=1d1f21)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=Apple&logoColor=white&color=1d1f21&labelColor=1d1f21)
