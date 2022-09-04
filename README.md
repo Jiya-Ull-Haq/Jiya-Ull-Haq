@@ -1,17 +1,12 @@
 
 
 <h3 align="center">Hello, I'm Jiya👋</h3>
-<p align="center"> Programming 👨🏻‍💻 | Mentoring 🎤 <br> Former Google Developer Student Club Lead '21 @ AEC </p>
+<p align="center"> <b>Student Entrepreneur | Jack Of All Trades </b> </p>
 
 ***
 
-
-- 🎓 Computer Science Student @ Aditya Engineering College.  
-- 🔭 Computer Information Systems 🚀 
-- ⚡  Student Entrepreneur | Jack Of All Trades.  
-
-
-
+I'm Jiya Ull Haq, <b>Computer Science Student</b> & <b>Former Google Developer Student Club Lead '21</b> at <b>AEC, Surampalem (2023 Batch)</b>.  
+My Interests being Computer Information Systems.
 
 <hr>
 
