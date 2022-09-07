@@ -1,14 +1,17 @@
 
 
 <h3 align="center">Hello, I'm Jiya👋</h3>
-<p align="center"> <b>Student Entrepreneur | Jack Of All Trades </b> </p>
+<div align="center">
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="19%"></img>
+<p > <b>Student Entrepreneur | Jack Of All Trades </b> </p>
+</div>
 
 ***
-
+### About:
 I'm <b>Jiya Ull Haq</b>, <b>Computer Science Student</b> & <b>Former Google Developer Student Club Lead '21</b> at  
 <b>Aditya Engineering College, Surampalem (2023 Batch)</b>.  
 
-<hr>
+### Stats:
 
 <div align="center">
 
