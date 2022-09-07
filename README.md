@@ -16,10 +16,10 @@ I'm <b>Jiya Ull Haq</b>, <b>Computer Science Student</b> & <b>Former Google Deve
 <div align="center">
 
    <a href="https://github.com/Jiya-Ull-Haq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-Ull-Haq&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" height="200rem"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-Ull-Haq&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" width="400rem"/>
   </a>
   <a href="https://github.com/Jiya-Ull-Haq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiya-Ull-Haq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jiya-Ull-Haq's GitHub Stats" height="200rem"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiya-Ull-Haq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jiya-Ull-Haq's GitHub Stats" width="450rem"/>
   </a>
   
 </div>
