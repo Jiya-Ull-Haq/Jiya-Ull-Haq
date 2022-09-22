@@ -2,7 +2,6 @@
 
 <h3 align="center">Hello, I'm Jiya👋</h3>
 <div align="center">
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="19%"></img>
 <p > <b>Student Entrepreneur | Jack Of All Trades </b> </p>
 </div>
 
