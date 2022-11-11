@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello, I'm Jiya👋</h3>
 <div align="center">
-<p > <b>Student Entrepreneur | Jack Of All Trades </b> </p>
+<p > <b>Tech Entrepreneur | Jack Of All Trades </b> </p>
 </div>
 
 ***
