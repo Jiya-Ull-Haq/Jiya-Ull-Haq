@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello, I'm Jiya 👋</h3>
 <div align="center">
-<p > <b>Full Stack Development | Jack Of All Trades </b> </p>
+<p > <b>Full Stack Engineer | Jack Of All Trades </b> </p>
 </div>
 
 ***
