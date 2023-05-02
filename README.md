@@ -6,9 +6,9 @@
 </div>
 
 ***
-### About:
-I'm <b>Jiya Ull Haq</b>, <b>Computer Science Student</b> & <b>Former Google Developer Student Club Lead '21</b> at  
-<b>Aditya Engineering College, Surampalem (2023 Batch)</b>.  
+<!-- ### About:
+I'm <b>Jiya Ull Haq</b> -->
+  
 
 ### Git Stats:
 
