@@ -13,7 +13,7 @@
 I'm <b>Jiya Ull Haq</b> -->
   
 
-### Git Stats:
+<!--  ### Git Stats:
 
 
 <!-- <a href="https://github.com/Jiya-Ull-Haq">
@@ -33,7 +33,7 @@ height="153" />
 <img src="https://github-readme-stats.vercel.app/api?username=Jiya-Ull-Haq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 alt="Jiya-Ull-Haq's GitHub Stats" width="345rem" />
 </a> 
-</div>
+</div> -->
 
 
 
