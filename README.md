@@ -1,11 +1,14 @@
 
 
-<h3 align="center">Hello, I'm Jiya 👋</h3>
+<!-- <h3 align="center">Hello, I'm Jiya 👋</h3>
 <div align="center">
 <p > <b>Full Stack Engineer | Jack Of All Trades </b> </p>
-</div>
-
+</div> 
 ***
+-->
+
+<img src="https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/Jiah.png"/>
+
 <!-- ### About:
 I'm <b>Jiya Ull Haq</b> -->
   
