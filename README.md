@@ -13,12 +13,13 @@
 I'm <b>Jiya Ull Haq</b> -->
   
 
+<!-- 
 ### Git Stats:
 
 
-<!-- <a href="https://github.com/Jiya-Ull-Haq">
+<a href="https://github.com/Jiya-Ull-Haq">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=12017533&layout=compact&theme=dark" height="153"/>
-</a> -->
+</a> 
 
 
 
@@ -36,7 +37,7 @@ alt="Jiya-Ull-Haq's GitHub Stats" width="345rem" />
 </div>
 
 
-
+-->
    
 
   
@@ -84,6 +85,7 @@ alt="Jiya-Ull-Haq's GitHub Stats" width="345rem" />
 
 </div> 
 
+<!--
 
 ***
 
@@ -95,6 +97,6 @@ alt="Jiya-Ull-Haq's GitHub Stats" width="345rem" />
 
 
 
-<!-- [![Python](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/python.svg)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-java.svg)](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c-sharp-logo.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Dart](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-dart.svg)](https://dart.dev/guides)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![TypeScript](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-typescript.svg)](https://www.typescriptlang.org/)
+ [![Python](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/python.svg)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-java.svg)](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C#](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-c-sharp-logo.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Dart](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-dart.svg)](https://dart.dev/guides)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![TypeScript](https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/icons8-typescript.svg)](https://www.typescriptlang.org/)
 -->
 
