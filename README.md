@@ -7,7 +7,7 @@
 ***
 -->
 
-<img src="https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/Jiah.png"/>
+<!-- <img src="https://github.com/Jiya-Ull-Haq/Jiya-Ull-Haq/blob/master/Jiah.png"/> -->
 
 <!-- ### About:
 I'm <b>Jiya Ull Haq</b> -->
